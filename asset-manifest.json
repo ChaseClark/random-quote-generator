@@ -1,0 +1,11 @@
+{
+  "main.js": "/random-quote-generator/static/js/main.6e45cd55.chunk.js",
+  "main.js.map": "/random-quote-generator/static/js/main.6e45cd55.chunk.js.map",
+  "static/js/1.74147e0a.chunk.js": "/random-quote-generator/static/js/1.74147e0a.chunk.js",
+  "static/js/1.74147e0a.chunk.js.map": "/random-quote-generator/static/js/1.74147e0a.chunk.js.map",
+  "runtime~main.js": "/random-quote-generator/static/js/runtime~main.7de484aa.js",
+  "runtime~main.js.map": "/random-quote-generator/static/js/runtime~main.7de484aa.js.map",
+  "index.html": "/random-quote-generator/index.html",
+  "precache-manifest.4f3073935a058ffce2d8eabfedef968d.js": "/random-quote-generator/precache-manifest.4f3073935a058ffce2d8eabfedef968d.js",
+  "service-worker.js": "/random-quote-generator/service-worker.js"
+}
